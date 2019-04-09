@@ -1,0 +1,29 @@
+{
+  "name": "format-moment",
+  "version": "1.0.1",
+  "description": "Processing date, return to the right format you need",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node test/format-moment.js",
+    "babel": "npx babel src/index.js -w -o lib/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wangxiaopeng-df/format-moment.git"
+  },
+  "keywords": [
+    "date",
+    "time",
+    "format",
+    "moment"
+  ],
+  "author": "winxp <winxp_df@163.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/cli": "^7.4.3",
+    "@babel/core": "^7.4.3",
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
