@@ -1,6 +1,6 @@
 {
   "name": "format-moment",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Processing date, return to the right format you need",
   "main": "lib/index.js",
   "scripts": {
